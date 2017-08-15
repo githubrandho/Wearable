@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">WearableDevice</string>
     <string name="github">gitHub</string>
+    <string name="sign_in">sign in</string>
 </resources>
